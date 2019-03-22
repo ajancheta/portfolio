@@ -6,7 +6,7 @@
 
 ## Description
 
-_This portfolio is a product of a first independent project in week 1 of Intro to Programming. It encompasses information about Ashley J. Ancheta as well as provides concepts learned in the first week of class._
+_This portfolio is the first independently created product in week 1 of Intro to Programming. It encompasses information about Ashley J. Ancheta as well as provides concepts learned in the first week of class._
 
 ## Setup/Installation Requirements
 
@@ -20,7 +20,7 @@ _This site is best viewed on a desktop, with the window 2560x1600 native resolut
 
 ## Support and contact details
 
-_Should any problems occur, discover other bugs, or experience issues with viewing, please contact m at ashleyjancheta@gmail.com_
+_Should any problems occur, discover other bugs, or experience issues with viewing, please contact me at ashleyjancheta@gmail.com_
 
 ## Technologies Used
 
