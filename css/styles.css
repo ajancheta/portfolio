@@ -47,7 +47,6 @@ img{
   max-width: 500px;
   padding-top: 10px;
   padding-bottom: 10px;
-  /* padding-right: 50px; */
 }
 
 a{
@@ -80,6 +79,11 @@ font-family: 'Josefin Sans', sans-serif;
   padding-bottom: -20px;
 }
 
+
+.panel-body {
+  border: 2px solid;
+  border-color: #A2A1A3;
+}
 footer {
   color: #2d9b85;
   font-style: italic;
