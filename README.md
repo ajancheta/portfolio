@@ -10,7 +10,7 @@ _This portfolio is a product of a first independent project in week 1 of Intro t
 
 ## Setup/Installation Requirements
 
-* _Go to this link to view the page on GitHub "https://ajancheta.github.io/portfolio". You may also clone this repository "https://ajancheta.github.io/portfolio"
+* Go to this link to view the page on GitHub "https://ajancheta.github.io/portfolio". You may also clone this repository "https://ajancheta.github.io/portfolio"
 * Open the repository in a preferred text editor such as Atom.
 * Open the file and view in the web browser of preference.
 
