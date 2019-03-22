@@ -15,8 +15,7 @@ body{
 
 .introduction {
   font-size: 50px;
-  padding-top: 10px;
-  padding-bottom: 40px;
+  line-height: 60px;
 }
 
 h1 {
@@ -26,6 +25,12 @@ h1 {
   border-bottom: 2px solid #000000;
 }
 
+#aloha {
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #2d9b85;
+  font-weight: bold;
+}
 #info-about{
 border-bottom: 2px solid #000000;
 
@@ -37,9 +42,6 @@ border-bottom: 2px solid #000000;
 
 }
 
-.panel-body {
-
-}
 img{
   float: left;
   /* width: 15%; */
@@ -79,8 +81,9 @@ font-family: 'Josefin Sans', sans-serif;
   border: 2px solid;
   border-color: #A2A1A3;
 }
-footer {
+
+/* footer {
   color: #2d9b85;
   font-style: italic;
   font-size: 15px;
-}
+} */
