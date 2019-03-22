@@ -16,7 +16,7 @@ _This portfolio is a product of a first independent project in week 1 of Intro t
 
 ## Known Bugs
 
-_This site is best viewed on a desktop, with the window at 1270x1220px_
+_This site is best viewed on a desktop, with the window 2560x1600 native resolution at 227px_
 
 ## Support and contact details
 

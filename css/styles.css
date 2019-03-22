@@ -64,10 +64,6 @@ font-size: 15px;
 font-family: 'Josefin Sans', sans-serif;
 }
 
-.description {
-  margin-right:30px;
-
-}
 
 .heading2{
   font-size: 15px;
@@ -78,7 +74,6 @@ font-family: 'Josefin Sans', sans-serif;
   font-family: 'Josefin Sans', sans-serif;
   padding-bottom: -20px;
 }
-
 
 .panel-body {
   border: 2px solid;
