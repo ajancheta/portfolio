@@ -38,22 +38,17 @@ border-bottom: 2px solid #000000;
 
 }
 
-.projects{
-  padding-top: -5px;
-
-}
-
 .moreinfo{
   border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
 }
 
 img{
-  float: left;
-  /* width: 15%; */
-  max-height: 450px;
+  float: center;
+  max-height: 400px;
   max-width: 500px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 a{
@@ -77,9 +72,8 @@ font-family: 'Josefin Sans', sans-serif;
 }
 
 .heading2 {
-  font-size: 20px;
-  font-family: 'Josefin Sans', sans-serif;
-  padding-bottom: -20px;
+  font-size: 15px;
+  font-family: 'Crimson Text', serif;
 }
 
 .panel-body {
@@ -92,8 +86,14 @@ font-family: 'Josefin Sans', sans-serif;
   margin: 10px;
 }
 
-/* footer {
+.footer {
   color: #2d9b85;
   font-style: italic;
+  font-size: 10px;
+}
+
+.contact{
+  color: #2d9b85;
   font-size: 15px;
-} */
+  font-style: bold;
+}
