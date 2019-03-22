@@ -9,13 +9,17 @@ body{
 .heading{
   color: #000000;
   font-size: 20px;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Crimson Text', serif;
+}
+
+.introduction {
+  font-size: 50px;
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Crimson Text', serif;
   border-bottom: 2px solid #000000;
 }
 
@@ -26,12 +30,17 @@ border-bottom: 2px solid #000000;
 img{
   float: left;
   /* width: 15%; */
-  max-height: 50px;
-  max-width: 100px;
-  display: block;
-  border-radius: 50%;
+  max-height: 500px;
+  max-width: 650px;
+  padding: 10px 10px;
+  padding-right: 10px;
+
 }
 
 .projects{
   border-bottom: 2px solid #000000;
+}
+
+.heading2{
+  font-size: 15px;
 }
