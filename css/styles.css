@@ -38,21 +38,25 @@ border-bottom: 2px solid #000000;
 
 }
 
+/* .projects {
+  border-bottom: 2px solid #000000;
+} */
 .moreinfo{
   border-top: 2px solid #000000;
   border-bottom: 2px solid #000000;
 }
 
 img{
-  float: center;
+  float: left;
   max-height: 400px;
   max-width: 500px;
   padding-top: 10px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
 }
 
 a{
   color: #2d9b85;
+  text-decoration: none;
 }
 
 .links a:hover{
@@ -87,8 +91,7 @@ font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
 }
 .panel-body {
-  /* border: 2px solid;
-  border-color: #A2A1A3; */
+  float: right;
   width: 300px;
   border: 5px solid #A2A1A3;
   /* padding: 10px; */
