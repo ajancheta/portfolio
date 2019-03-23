@@ -9,12 +9,6 @@ body{
   color: #000000;
 }
 
-.heading{
-  color: #000000;
-  font-size: 20px;
-  font-family: 'Crimson Text', serif;
-}
-
 .introduction {
   font-size: 50px;
   line-height: 60px;
@@ -22,12 +16,19 @@ body{
   padding-bottom: 50px;
 }
 
-h1 {
+.heading{
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Crimson Text', serif;
+}
+
+ h1 {
   font-size: 30px;
   text-align: center;
   font-family: 'Crimson Text', serif;
   border-bottom: 2px solid #000000;
 }
+
 
 #aloha {
   font-family: 'Sacramento', cursive;
@@ -39,6 +40,7 @@ h1 {
 border-bottom: 2px solid #000000;
 
 }
+
 
 .moreinfo {
   border-top: 2px solid #000000;
@@ -90,12 +92,11 @@ font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
 }
 .panel-body {
-  float: right;
-  width: 300px;
+  /* float: center; */
+  width: 390px;
   border: 5px solid #A2A1A3;
-  /* padding: 10px; */
-  padding: 15px;
-  margin: 10px;
+  padding: 10px;
+  margin: 15px;
 }
 
 .footer {
