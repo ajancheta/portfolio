@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _Front End Development/Intro to Programming, Week 1 Independent Project, 03.22.2019_
+#### _Intro to Programming, Week 1 Independent Project, 03.22.2019_
 
 #### By _Ashley J. Ancheta_
 
