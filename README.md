@@ -16,7 +16,7 @@ _This portfolio is the first independently created product in week 1 of Intro to
 
 ## Known Bugs
 
-_This site is best viewed on a desktop, with the window 2560x1600 native resolution at 227px_
+_There are no known bugs._
 
 ## Support and contact details
 
